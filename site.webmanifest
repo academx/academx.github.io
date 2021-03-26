@@ -1,0 +1,12 @@
+{
+    "short_name": "Acx",
+    "name": "Academx",
+    "icons": [{
+      "src": "/static/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#f7f5f4",
+    "theme_color": "#323232"
+}
