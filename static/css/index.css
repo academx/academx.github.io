@@ -22,6 +22,14 @@ p {
     padding: 0;
 }
 
+p.math {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: 1.3em;
+}
+
 .for-reading {
     margin-right: 20%;
     margin-left: 20%;
